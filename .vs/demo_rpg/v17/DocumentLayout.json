@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hitpointtypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\hitpointtypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\stattypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\stattypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\statblock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\statblock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\wizard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\wizard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\rogue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\rogue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\cleric.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\cleric.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\characters\\hp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D9A27F51-968F-43CD-A233-9220E2456224}|demo_rpg.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +50,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "hitpointtypes.h",
-              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hitpointtypes.h",
-              "RelativeDocumentMoniker": "src\\characters\\hitpointtypes.h",
-              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hitpointtypes.h",
-              "RelativeToolTip": "src\\characters\\hitpointtypes.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "DocumentIndex": 4,
+              "Title": "rogue.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\rogue.h",
+              "RelativeDocumentMoniker": "src\\characters\\rogue.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\rogue.h",
+              "RelativeToolTip": "src\\characters\\rogue.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T19:54:01.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cleric.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\cleric.h",
+              "RelativeDocumentMoniker": "src\\characters\\cleric.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\cleric.h",
+              "RelativeToolTip": "src\\characters\\cleric.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T19:53:28.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wizard.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\wizard.h",
+              "RelativeDocumentMoniker": "src\\characters\\wizard.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\wizard.h",
+              "RelativeToolTip": "src\\characters\\wizard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T19:52:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "statblock.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\statblock.h",
+              "RelativeDocumentMoniker": "src\\characters\\statblock.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\statblock.h",
+              "RelativeToolTip": "src\\characters\\statblock.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T19:31:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "warrior.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\warrior.h",
+              "RelativeDocumentMoniker": "src\\characters\\warrior.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\warrior.h",
+              "RelativeToolTip": "src\\characters\\warrior.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T19:01:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stattypes.h",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\stattypes.h",
+              "RelativeDocumentMoniker": "src\\characters\\stattypes.h",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\stattypes.h",
+              "RelativeToolTip": "src\\characters\\stattypes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-19T18:59:10.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "hp.h",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hp.h",
               "RelativeDocumentMoniker": "src\\characters\\hp.h",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\characters\\hp.h",
               "RelativeToolTip": "src\\characters\\hp.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-19T17:52:33.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\demo_rpg\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T17:46:44.365Z",
               "EditorCaption": ""

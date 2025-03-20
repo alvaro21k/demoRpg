@@ -130,8 +130,13 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\characters\hitpointtypes.h" />
+    <ClInclude Include="src\characters\cleric.h" />
+    <ClInclude Include="src\characters\rogue.h" />
+    <ClInclude Include="src\characters\statblock.h" />
+    <ClInclude Include="src\characters\stattypes.h" />
     <ClInclude Include="src\characters\hp.h" />
+    <ClInclude Include="src\characters\warrior.h" />
+    <ClInclude Include="src\characters\wizard.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,11 +1,27 @@
 #pragma once
 #include <cstdint>
-#include "hitpointtypes.h"
+#include "stattypes.h"
 
 
 class Hp {
 public:
 	//Returns true if set succesfully
+
+	Hp() {
+		currentHp = 1;
+		maxHp = 1;
+	}
+
+	explicit Hp(hptype cHp, hptype mHp) {
+		currentHp = cHp;
+		maxHp = mHp;
+		if (currentHp > maxHp) {
+			currentHp = maxHp;
+		}
+	}
+
+	~Hp() {}
+
 	bool setMaxHp(hptype newMaxHp) {
 		if (newMaxHp < 1) {
 			return false;

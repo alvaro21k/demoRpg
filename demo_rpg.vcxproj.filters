@@ -23,7 +23,22 @@
     <ClInclude Include="src\characters\hp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\characters\hitpointtypes.h">
+    <ClInclude Include="src\characters\stattypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\characters\warrior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\characters\statblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\characters\wizard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\characters\cleric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\characters\rogue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
